@@ -33,6 +33,13 @@ We focused on three major types:
 - Models like **Logistic Regression** and **XGBoost** became highly sensitive after SMOTE (high recall, low precision), which harmed overall F1 performance.
 - **Meta Algorithms** clearly helped mitigate individual model weaknesses and performed better than any single classifier.
 
+## 📂 Dataset
+
+The dataset used in this project is publicly available on Kaggle:  
+🔗 [Credit Card Fraud Detection Dataset – ULB](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data)
+
+> Note: You need to be logged in to Kaggle to download the dataset.
+
 ## ✅ Conclusion
 
 Ensemble methods, especially **Random Forest**, provided consistent and balanced performance before and after handling imbalance.  
